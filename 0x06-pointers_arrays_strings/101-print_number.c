@@ -3,10 +3,11 @@
 /**
  * print_number - print numbers chars
  * @n: integer params
- * Retur: 0
+ * Return: 0
  */
 
 void print_number(int n)
+
 {
 	unsigned int n1;
 
